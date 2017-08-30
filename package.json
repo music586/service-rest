@@ -1,0 +1,27 @@
+{
+  "name": "service-rest",
+  "version": "1.0.0",
+  "description": "rest request manager project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/music586/service-rest.git"
+  },
+  "keywords": [
+    "rest",
+    "express"
+  ],
+  "author": "music586",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/music586/service-rest/issues"
+  },
+  "homepage": "https://github.com/music586/service-rest#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
